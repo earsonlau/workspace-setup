@@ -1,0 +1,31 @@
+{
+  "name": "layerfs-workspace-setup",
+  "version": "0.1.0",
+  "description": "One-shot bootstrap for LayerFS Branches and Workspaces: copy local files, install dependencies, and trust mise and direnv.",
+  "type": "module",
+  "bin": {
+    "layerfs-workspace-setup": "./bin/layerfs-workspace-setup.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "layerfs.json",
+    "logo.svg",
+    "LICENSE",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "layerfs",
+    "workspace",
+    "worktree",
+    "direnv",
+    "mise"
+  ],
+  "license": "MIT"
+}

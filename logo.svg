@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none" role="img" aria-label="layerfs-workspace-setup">
+  <rect width="128" height="128" rx="28" fill="#10221F"/>
+  <path d="M24 44 64 28l40 16-40 16-40-16Z" fill="#E7FBF6"/>
+  <path d="M24 62 64 46l40 16-40 16-40-16Z" fill="#3DCCB4"/>
+  <path d="M24 80 64 64l40 16-40 16-40-16Z" fill="#0F6E60"/>
+  <circle cx="96" cy="34" r="16" fill="#F2B544"/>
+  <path d="M88.5 34.2 93.8 39.6l11-12" stroke="#10221F" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
